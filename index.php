@@ -18,7 +18,7 @@
 <body>
 	<div id="content">
 		<form class="text-center" action="#"  method="get">
-			<h2 >Генератор ссылок</h2>
+			<h2 >Сервис сокращения ссылок</h2>
 			<div class="col-md-6">
 				<h3>Ссылка которую нужно сократить</h3>
 				<input type="text" placeholder="Введите ссылку" name="link"><br>
