@@ -22,12 +22,12 @@
 			<div class="col-md-6">
 				<h3>Ссылка которую нужно сократить</h3>
 				<input type="text" placeholder="Введите ссылку" name="link"><br>
-				<a href="<?=$link?>" target="iframe1" ><?=$final_link?></a>
+				<a href="<?=$link?>"><?=$final_link?></a>
 			</div>
 			<div class="col-md-6">
 				<h3>Свой вариант ссылки</h3>
 				<input type="text" placeholder="Введите ссылку" name="user_link"><br>
-				<a href='<?=$link?>' target="iframe1"><?=$user_link?></a>
+				<a href='<?=$link?>'><?=$user_link?></a>
 			</div>
 			<input  type="submit" value="Сгенерировать"><br>
 		</form> 
